@@ -1,5 +1,5 @@
-# JohnDoe
-A Responsive Free One Page Portfolio Website template
+# Shinnosuke Taniya
+Portfolio Website for Shinnosuke Taniya
 
 
 
