@@ -614,6 +614,30 @@ h1.arrow span {
 .color-bg h1.arrow {
     color: #FFF;
 }
+
+.color-card {
+	background: #000;
+}
+
+.color-card a {
+    color: #FFE800;
+}
+.color-card h6, .color-card p {
+    color: white;
+}
+.color-card h6::after{
+	border-color: #fff;
+}
+.color-card .weight-outline-btn {
+    color: white;
+    border-color: white;
+}
+.color-card .weight-outline-btn:hover {
+  background: #FFF;
+  color: #000;
+  border-color: #fff;
+}
+
 /* ==========================================================================Services========================================================================== */
 .services {
 	margin-top:80px;
